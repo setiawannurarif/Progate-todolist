@@ -6,6 +6,9 @@ function Form({ setInputText, inputText, setTodos, todos, setStatus }) {
   }
   function submitTodoHandler(e) {
     e.preventDefault();
+    if (inputText === '') {
+      return alert('Your Task is Empty!');
+    }
     setTodos([...todos, { text: inputText, completed: false, id: +new Date() }]);
     setInputText('');
   }
@@ -14,7 +17,7 @@ function Form({ setInputText, inputText, setTodos, todos, setStatus }) {
   }
   return (
     <form>
-      <input value={inputText} onChange={inputTextHandler} type="text" className="todo-input" />
+      <input placeholder="Add a Task" value={inputText} onChange={inputTextHandler} type="text" className="todo-input" />
       <button onClick={submitTodoHandler} className="todo-button" type="submit">
         <i className="fas fa-plus-square"></i>
       </button>
