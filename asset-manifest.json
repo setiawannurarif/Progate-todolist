@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Progate-todolist/static/css/main.69b0d5e5.css",
+    "main.js": "/Progate-todolist/static/js/main.365842cb.js",
+    "static/js/787.e9a34224.chunk.js": "/Progate-todolist/static/js/787.e9a34224.chunk.js",
+    "index.html": "/Progate-todolist/index.html",
+    "main.69b0d5e5.css.map": "/Progate-todolist/static/css/main.69b0d5e5.css.map",
+    "main.365842cb.js.map": "/Progate-todolist/static/js/main.365842cb.js.map",
+    "787.e9a34224.chunk.js.map": "/Progate-todolist/static/js/787.e9a34224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b0d5e5.css",
+    "static/js/main.365842cb.js"
+  ]
+}
