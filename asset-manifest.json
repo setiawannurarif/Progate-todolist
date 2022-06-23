@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Progate-todolist/static/css/main.4c80af6f.css",
-    "main.js": "/Progate-todolist/static/js/main.365842cb.js",
+    "main.css": "/Progate-todolist/static/css/main.773b2fdc.css",
+    "main.js": "/Progate-todolist/static/js/main.d515c575.js",
     "static/js/787.e9a34224.chunk.js": "/Progate-todolist/static/js/787.e9a34224.chunk.js",
     "index.html": "/Progate-todolist/index.html",
-    "main.4c80af6f.css.map": "/Progate-todolist/static/css/main.4c80af6f.css.map",
-    "main.365842cb.js.map": "/Progate-todolist/static/js/main.365842cb.js.map",
+    "main.773b2fdc.css.map": "/Progate-todolist/static/css/main.773b2fdc.css.map",
+    "main.d515c575.js.map": "/Progate-todolist/static/js/main.d515c575.js.map",
     "787.e9a34224.chunk.js.map": "/Progate-todolist/static/js/787.e9a34224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c80af6f.css",
-    "static/js/main.365842cb.js"
+    "static/css/main.773b2fdc.css",
+    "static/js/main.d515c575.js"
   ]
 }
